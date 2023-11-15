@@ -19,7 +19,7 @@ These are links to personal/learning projects I'm currently working on and also 
 
     [React app currently hosted on Netlify](https://6541a786d66ac71f642ed337--twinkler.netlify.app/) and the API to AWS Lambda.
 
-- **[Sellit - WIP](https://github.com/gbolly/sellit): A microservices architecture the leverages FastAPi, RedisJson and Redis stream to communicate between services and a frontend with React.
+- **[Sellit - WIP](https://github.com/gbolly/sellit)**: A microservices architecture the leverages FastAPi, RedisJson and Redis stream to communicate between services and a frontend with React.
 
 - **[Async graph data flow](https://github.com/civisanalytics/async-graph-data-flow/blob/main/src/async_graph_data_flow/graph.py)**: a Python library for executing asynchronous functions that pass data along a directed acyclic graph (DAG). Built for ETL processes.
 
