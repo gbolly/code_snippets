@@ -1,0 +1,19 @@
+$JAMLYF_BLUE_DARK: #41889A;
+
+.signinContainer {
+    width: 30%;
+    min-height: 50%;
+}
+
+.resetPasswordLink {
+    padding-left: 3px;
+    text-decoration: none;
+    color: $JAMLYF_BLUE_DARK;
+    font-weight: bold;
+    font-size: 1em;
+
+    &:hover {
+        color: $JAMLYF_BLUE_DARK;
+        cursor: pointer;
+    }
+}
